@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045081791200",
+    "project_id": "mess-mate-app-aa9cd",
+    "storage_bucket": "mess-mate-app-aa9cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045081791200:android:5b123bf6e4ea144659ce85",
+        "android_client_info": {
+          "package_name": "com.example.mess_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5hoquaJ5Pq-sNWK_jp-_aeKnGXH5XAA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
